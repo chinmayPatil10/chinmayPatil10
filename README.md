@@ -1,104 +1,93 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,100:2F81F7&height=120&section=header" alt="banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B1A,50:7C4DFF,100:00E5FF&height=120&section=header" alt="banner" width="100%" />
 
-# Chinmay Patil
+<a href="https://github.com/chinmayPatil10">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=B388FF&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Chinmay+Patil+%F0%9F%91%BE;Tinkerer+%C2%B7+Explorer+%C2%B7+Builder;I+build+AI+things+that+shouldn't+work;...and+then+make+them+work+%E2%9A%A1" alt="Typing intro" />
+</a>
 
-**Tinkerer · Explorer · Builder**
-
-### 🧪 AI Tinkerer — I build innovative ideas, then break them to see what happens
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinmay-patil-/)
-[![Email](https://img.shields.io/badge/Email-patilchinmay62%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patilchinmay62@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0B1A)](https://www.linkedin.com/in/chinmay-patil-/)
+[![Email](https://img.shields.io/badge/Email-Say%20hi-00E5FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B0B1A)](mailto:patilchinmay62@gmail.com)
+[![Profile views](https://komarev.com/ghpvc/?username=chinmayPatil10&style=for-the-badge&color=7C4DFF&label=VISITORS)](https://github.com/chinmayPatil10)
 
 </div>
 
 ---
 
-## 👋 About me
+### `$ whoami`
 
-- 🔬 **7+ years** shipping software, and still treating every project like an experiment
-- 🏢 Software Application Developer II at **Randstad USA**, where I'm Support Lead for the transcoder platform on GCP
-- 🤖 Built an **AI support agent** that cut developer support time by **80%**
-- ⚡ Turned a 4.5-hour reporting process into a **5-minute** automated microservice pipeline
-- 💘 Founder of **Convoo**, a dating app where people talk live *before* they see each other's profiles
-- 🎓 M.S. Computer Science, **DePaul University**, Chicago
-- 📍 Atlanta, GA
+```console
+chinmay@lab:~$ whoami
+Chinmay Patil — AI tinkerer · 7+ yrs shipping software · Atlanta, GA
 
----
+chinmay@lab:~$ cat about.txt
+> Software Application Developer II @ Randstad USA (Support Lead, transcoder on GCP)
+> Built an AI support agent that cut developer support time by 80%
+> Turned a 4.5-hour reporting process into a 5-minute automated pipeline
+> Founder of Convoo — a dating app where you talk live before you see profiles
+> M.S. Computer Science, DePaul University
+```
 
-## 🧰 Tech stack
+### `$ cat stack.txt`
 
-**Languages**
+<div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,ts,py,html,css,nodejs,nestjs,react,nextjs,angular,vue,django&perline=12&theme=dark" alt="Languages and frameworks" />
+<br/>
+<img src="https://skillicons.dev/icons?i=graphql,gcp,aws,terraform,docker,postgres,mongodb,firebase,supabase,kafka,git,jira&perline=12&theme=dark" alt="Cloud, data and tools" />
 
-**Frameworks & APIs**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-7C4DFF?style=flat-square&logo=openai&logoColor=white)
+![GenAI](https://img.shields.io/badge/GenAI-00E5FF?style=flat-square&logo=googlegemini&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-B388FF?style=flat-square&logo=langchain&logoColor=black)
+![Fastify](https://img.shields.io/badge/Fastify-0B0B1A?style=flat-square&logo=fastify&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=grpc&logoColor=white)
-
-**AI & Data**
-
-![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=flat-square&logo=openai&logoColor=white)
-![GenAI](https://img.shields.io/badge/Generative%20AI-FF6F00?style=flat-square&logo=googlegemini&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
-**Cloud & DevOps**
+</div>
 
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+### `$ ls ./experiments`
 
----
+```console
+chinmay@lab:~$ ls -l ./experiments
+drwxr-xr-x  recess/              AI models battle it out in browser games
+drwxr-xr-x  appbase/             self-hosted help center + changelog + feedback platform
+drwxr-xr-x  kitabai/             chat with any book you upload
+drwxr-xr-x  ai-job-insights/     LinkedIn job analysis + resume tailoring
+drwxr-xr-x  plugai/              one npm API for Gemini, DeepSeek and OpenAI
+drwxr-xr-x  supabase-node-kit/   drop-in Supabase auth + DB for Node
+```
 
-## 🚀 Featured experiments
-
-| Project | What it does | Built with |
+| | Experiment | Stack |
 |---|---|---|
-| 🎮 **[Recess](https://recess-one.vercel.app)** | An arcade where AI models play against each other: roast battles, haiku duels, "guess the model". Bring your own API key; no backend, no signup. | HTML · JS · LLM APIs |
-| 🧱 **[AppBase](https://chinmaypatil10.github.io/appbase/)** | A self-hosted, multi-tenant developer platform for help centers, changelogs and feedback, with embeddable widgets for Angular, Ionic and vanilla JS. | TypeScript · Web Components |
-| 📚 **KitabAI** | Upload a book and have a conversation with it. | Gemini · LangChain · Supabase · TypeScript |
-| 💼 **AI Job Insights** | Analyzes LinkedIn job postings, surfaces insights and tailors your resume to each role. | OpenAI · Puppeteer · Node.js |
-| 🔌 **[PlugAI](https://github.com/chinmayPatil10/plugai)** | One npm interface for Gemini, DeepSeek and OpenAI, so you can swap models without rewriting code. | TypeScript · npm |
-| 🗝️ **[supabase-node-kit](https://github.com/chinmayPatil10/supabase-node-kit)** | A drop-in backend kit for Supabase auth and database work in Node. | TypeScript · Supabase |
+| 🎮 | **[Recess](https://recess-one.vercel.app)**: an AI arcade with roast battles, haiku duels and "guess the model". Bring your own API key. | HTML · JS · LLM APIs |
+| 🧱 | **[AppBase](https://chinmaypatil10.github.io/appbase/)**: a multi-tenant dev platform with embeddable widgets for Angular, Ionic and vanilla JS. | TypeScript · Web Components |
+| 📚 | **KitabAI**: upload a book and have a conversation with it. | Gemini · LangChain · Supabase |
+| 💼 | **AI Job Insights**: analyzes job postings and tailors your resume to each one. | OpenAI · Puppeteer · Node.js |
+| 🔌 | **[PlugAI](https://github.com/chinmayPatil10/plugai)**: swap AI models without rewriting code. | TypeScript · npm |
+| 🗝️ | **[supabase-node-kit](https://github.com/chinmayPatil10/supabase-node-kit)**: Supabase auth and DB in a few lines. | TypeScript · Supabase |
 
----
+### `$ tail -f now.log`
 
-## 🧭 Currently
-
-- 🛠️ Building **Convoo**, which puts conversation before profiles
-- 🤖 Experimenting with **AI agents** that take real work off developers' plates
-- 🌱 Exploring whatever looks interesting next
+```console
+[running]  building Convoo — conversation before profiles
+[running]  experimenting with AI agents that take real work off developers' plates
+[queued ]  whatever looks interesting next...
+```
 
 ---
 
 <div align="center">
 
-**💡 Got a wild idea? Let's prototype it.**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chinmayPatil10/chinmayPatil10/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chinmayPatil10/chinmayPatil10/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/chinmayPatil10/chinmayPatil10/output/github-snake-dark.svg" />
+</picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:6E40C9&height=100&section=footer" alt="footer" width="100%" />
+```console
+chinmay@lab:~$ echo "Got a wild idea? Let's prototype it."
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:7C4DFF,100:0B0B1A&height=100&section=footer" alt="footer" width="100%" />
 
 </div>
