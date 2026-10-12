@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,100:2F81F7&height=180&section=header&text=Chinmay%20Patil&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Tinkerer%20%C2%B7%20Explorer%20%C2%B7%20Builder&descSize=18&descAlignY=58" alt="Chinmay Patil banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,100:2F81F7&height=120&section=header" alt="banner" width="100%" />
+
+# Chinmay Patil
+
+**Tinkerer · Explorer · Builder**
 
 ### 🧪 AI Tinkerer — I build innovative ideas, then break them to see what happens
 
