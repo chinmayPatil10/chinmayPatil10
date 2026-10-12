@@ -4,7 +4,7 @@
 
 ### 🧪 AI Tinkerer — I build innovative ideas, then break them to see what happens
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-chinmay--patil--0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinmay-patil-/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinmay-patil-/)
 [![Email](https://img.shields.io/badge/Email-patilchinmay62%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patilchinmay62@gmail.com)
 
 </div>
