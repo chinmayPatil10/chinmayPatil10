@@ -55,6 +55,7 @@ drwxr-xr-x  kitabai/             chat with any book you upload
 drwxr-xr-x  ai-job-insights/     LinkedIn job analysis + resume tailoring
 drwxr-xr-x  plugai/              one npm API for Gemini, DeepSeek and OpenAI
 drwxr-xr-x  supabase-node-kit/   drop-in Supabase auth + DB for Node
+drwxr-xr-x  cong-rush/           song-themed Unity platformer (from my Bachelor's)
 ```
 
 | | Experiment | Stack |
@@ -65,6 +66,7 @@ drwxr-xr-x  supabase-node-kit/   drop-in Supabase auth + DB for Node
 | 💼 | **AI Job Insights**: analyzes job postings and tailors your resume to each one. | OpenAI · Puppeteer · Node.js |
 | 🔌 | **[PlugAI](https://github.com/chinmayPatil10/plugai)**: swap AI models without rewriting code. | TypeScript · npm |
 | 🗝️ | **[supabase-node-kit](https://github.com/chinmayPatil10/supabase-node-kit)**: Supabase auth and DB in a few lines. | TypeScript · Supabase |
+| 🕹️ | **[Cong Rush](https://github.com/chinmayPatil10/Cong-Rush)**: a 2D mobile platformer with 10 song-themed levels. Grab every coin before the clock runs out. Built during my Bachelor's. | Unity · C# · Android |
 
 ### `$ tail -f now.log`
 
